@@ -1,0 +1,7 @@
+### License
+Copyright (c) 2026 kevinzoids@gmail.com
+All Rights Reserved.
+
+No part of this repository may be reproduced, distributed,
+or transmitted in any form or by any means without prior
+written permission of the copyright holder.
